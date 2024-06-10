@@ -1,5 +1,5 @@
 # A Simple Random Photos Page.
-  
+  ![](Screenshot%202024-06-10%20at%2018-24-59%20Random%20Photos.png)
 ## Table of contents
 
 - [Screenshot](#screenshot)
@@ -10,11 +10,11 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](Screenshot%202024-06-10%20at%2018-24-45%20Random%20Photos.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Random Photos](https://gideon-w.github.io/Random-Photos/)
 
 
 ### Built with
